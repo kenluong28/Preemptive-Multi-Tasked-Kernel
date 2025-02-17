@@ -1,5 +1,0 @@
-,group_id,TA,GRACE DAYS,BUILD,TEST1 (3),TEST2 (7),TEST3 (8),TEST4 (1),TEST5 (4),TEST6 (16),TEST7 (11),TEST8 (10 - pass/fail),TEST9 (9),TEST10 (6),TEST11 (5),Total,"Percent (10% for build, 90% for the rest)",COMMENT,Legend
-0,1,XZ,,1.0,3.0,7.0,8.0,-1.0,4.0,11.0,9.0,0.0,-1.0,6.0,3,51,67.375,"Regraded
-New version of code grade from TEST1-11:
-3 7 8 1 4 12 9 -1 5 6 -1","-1: No grade ouput; indicates the test most likely ended in a hardfault or other fault. This test would get a 0 in the grading
--2: Test stalled and reached timeout. This test would be given 0 in the grading"
